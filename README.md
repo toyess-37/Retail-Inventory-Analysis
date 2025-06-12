@@ -21,8 +21,6 @@ This project implements a data warehouse solution for retail inventory managemen
 ├── 0.schema_data.sql                    # Database schema and table creation
 ├── 1.analysis_compiled.sql              # Main analysis views and queries
 ├── inventory_forecasting.csv            # Sample forecasting data
-├── Inventory_Optimization_Report.md     # Detailed optimization report
-├── Project_Approach_and_Impact.md       # Project methodology and impact analysis
 ├── retail_inventory_analysis_report.pdf # Comprehensive analysis report
 ├── LICENSE                              # License file
 ├── README.md                           # This file
